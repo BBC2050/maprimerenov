@@ -57,7 +57,7 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan="5" style="border: solid 1px black; padding: 10px;">
+            <td rowspan="5" style="border: solid 1px black; padding: 10px; text-align: center;">
                 <img
                     src="https://raw.githubusercontent.com/BBC2050/maprimerenov/main/assets/bonus.base.png"
                     alt="Bonus & Rénovation globale"
@@ -160,7 +160,7 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="15" style="border: solid 1px black; padding: 10px;">
+            <td rowspan="15" style="border: solid 1px black; padding: 10px; text-align: center;">
                 <img
                     src="https://raw.githubusercontent.com/BBC2050/maprimerenov/main/assets/chauffage.base.png"
                     alt="Chauffage & ECS"
@@ -452,7 +452,7 @@
             </td>
         </tr>
         <tr>
-            <td style="border: solid 1px black; padding: 10px;">
+            <td style="border: solid 1px black; padding: 10px; text-align: center;">
                 <img
                     src="https://raw.githubusercontent.com/BBC2050/maprimerenov/main/assets/ventilation.base.png"
                     alt="Ventilation"
@@ -478,7 +478,7 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="8" style="border: solid 1px black; padding: 10px;">
+            <td rowspan="8" style="border: solid 1px black; padding: 10px; text-align: center;">
                 <img
                     src="https://raw.githubusercontent.com/BBC2050/maprimerenov/main/assets/isolation.base.png"
                     alt="Isolation & Protection"
