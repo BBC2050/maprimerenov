@@ -13,16 +13,16 @@
         </tr>
         <tr>
             <th style="text-align:center">
-                logo
+                <img src="https://raw.githubusercontent.com/BBC2050/maprimerenov/main/assets/bleu.min.png" alt="MaPrimeRénov'Bleu">
             </th>
             <th style="text-align:center">
-                logo
+                <img src="https://raw.githubusercontent.com/BBC2050/maprimerenov/main/assets/jaune.min.png" alt="MaPrimeRénov'Jaune">
             </th>
             <th style="text-align:center">
-                logo
+                <img src="https://raw.githubusercontent.com/BBC2050/maprimerenov/main/assets/violet.min.png" alt="MaPrimeRénov'Violet">
             </th>
             <th style="text-align:center">
-                logo
+                <img src="https://raw.githubusercontent.com/BBC2050/maprimerenov/main/assets/rose.min.png" alt="MaPrimeRénov'Rose">
             </th>
         </tr>
     </thead>
@@ -42,7 +42,7 @@
             </td>
             <td style="text-align:center">
                 <span style="color:rgb(246, 143, 108); font-weight: 700;">> 29 148 €</span>
-            <td>
+            </td>
         </tr>
         <tr>
             <td>
@@ -147,16 +147,16 @@
         </tr>
         <tr>
             <th style="text-align:center">
-                logo
+                <img src="https://raw.githubusercontent.com/BBC2050/maprimerenov/main/assets/bleu.min.png" alt="MaPrimeRénov'Bleu">
             </th>
             <th style="text-align:center">
-                logo
+                <img src="https://raw.githubusercontent.com/BBC2050/maprimerenov/main/assets/jaune.min.png" alt="MaPrimeRénov'Jaune">
             </th>
             <th style="text-align:center">
-                logo
+                <img src="https://raw.githubusercontent.com/BBC2050/maprimerenov/main/assets/violet.min.png" alt="MaPrimeRénov'Violet">
             </th>
             <th style="text-align:center">
-                logo
+                <img src="https://raw.githubusercontent.com/BBC2050/maprimerenov/main/assets/rose.min.png" alt="MaPrimeRénov'Rose">
             </th>
         </tr>
     </thead>
@@ -176,7 +176,7 @@
             </td>
             <td style="text-align:center">
                 <span style="color:rgb(246, 143, 108); font-weight: 700;">> 38 184 €</span>
-            <td>
+            </td>
         </tr>
         <tr>
             <td>
