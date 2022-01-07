@@ -30,7 +30,7 @@
     <tbody>
         <tr>
             <td rowspan="5" style="width: 40px">
-                Logo
+                <img src="https://raw.githubusercontent.com/BBC2050/maprimerenov/main/assets/bonus.base.png" alt="Bonus & Rénovation globale">
             </td>
             <td>Rénovation globale</td>
             <td style="text-align:center">MaPrimeRénov' Sérénité</td>
@@ -73,7 +73,7 @@
         </tr>
         <tr>
             <td rowspan="15" style="width: 40px">
-                Logo
+                <img src="https://raw.githubusercontent.com/BBC2050/maprimerenov/main/assets/chauffage.base.png" alt="Chauffage & ECS">
             </td>
             <td>Chaudières à granulés</td>
             <td style="text-align:center">10 000 €</td>
@@ -196,7 +196,7 @@
         </tr>
         <tr>
             <td style="width: 40px">
-                Logo
+                <img src="https://raw.githubusercontent.com/BBC2050/maprimerenov/main/assets/ventilation.base.png" alt="Ventilation">
             </td>
             <td>Ventilation mécanique contrôlée (VMC) double flux</td>
             <td style="text-align:center">4 000 €</td>
@@ -207,7 +207,7 @@
         </tr>
         <tr>
             <td rowspan="8" style="width: 40px">
-                Logo
+                <img src="https://raw.githubusercontent.com/BBC2050/maprimerenov/main/assets/isolation.base.png" alt="Isolation & Protection">
             </td>
             <td>Isolation thermique des fenêtres (et parois vitrées)</td>
             <td style="text-align:center">100 €/m²</td>
