@@ -1,0 +1,35 @@
+{
+  "$id": "https://github.com/BBC2050/maprimerenov/schemas/beneficiaire",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Bénéficiaire",
+  "description": "Un bénéficiaire Ma Prime Rénov'",
+  "type": "object",
+  "properties": {
+    "numeroFiscal": {
+      "title": "Identifiant fiscal",
+      "label": "Identifiant fiscal",
+      "description": "Identifiant fiscal du bénéficiaire",
+      "type": "string",
+      "pattern": "^[0-9A-Z]{13,13}$"
+    },
+    "referenceAvis": {
+      "title": "Référence de l'avis",
+      "label": "Référence de l'avis",
+      "description": "Référence de l'avis d'impôsition N-1",
+      "type": "string",
+      "pattern": "^[0-9A-Z]{13,13}$"
+    },
+    "codeCommune": {
+      "title": "Code commune",
+      "label": "Code commune",
+      "description": "Code INSEE de la commune du bénéficiaire",
+      "type": "string",
+      "pattern": "^[0-9A-Z]{5,5}$"
+    }
+  },
+  "required": [
+    "numeroFiscal",
+    "referenceAvis",
+    "codeCommune"
+  ]
+}
