@@ -20,7 +20,7 @@
                 <img
                     src="https://raw.githubusercontent.com/BBC2050/maprimerenov/main/assets/bleu.min.png"
                     alt="MaPrimeRénov'Bleu"
-                    width="100%"
+                    height="30px"
                     style="vertical-align: middle;"
                 >
             </th>
@@ -28,7 +28,7 @@
                 <img
                     src="https://raw.githubusercontent.com/BBC2050/maprimerenov/main/assets/jaune.min.png"
                     alt="MaPrimeRénov'Jaune"
-                    width="100%"
+                    height="30px"
                     style="vertical-align: middle;"
                 >
             </th>
@@ -36,7 +36,7 @@
                 <img
                     src="https://raw.githubusercontent.com/BBC2050/maprimerenov/main/assets/violet.min.png"
                     alt="MaPrimeRénov'Violet"
-                    width="100%"
+                    height="30px"
                     style="vertical-align: middle;"
                 >
             </th>
@@ -44,7 +44,7 @@
                 <img
                     src="https://raw.githubusercontent.com/BBC2050/maprimerenov/main/assets/rose.min.png"
                     alt="MaPrimeRénov'Rose"
-                    width="100%"
+                    height="30px"
                     style="vertical-align: middle;"
                 >
             </th>
