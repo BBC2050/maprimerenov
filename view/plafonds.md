@@ -1,7 +1,7 @@
 <table style="width: 100%; table-layout:fixed; border-collapse: collapse; border: 1px solid black;">
     <thead>
         <tr>
-            <td colspan="6" style="text-align:center; background-color: #aae4d6; padding: 15px;">
+            <td colspan="5" style="text-align:center; background-color: #aae4d6; padding: 15px;">
                 <span style="font-size: 110%;">
                     Plafonds de ressources hors Île-de-France
                 </span>
@@ -143,7 +143,7 @@
 <table style="width: 100%; table-layout:fixed; border-collapse: collapse; border: 1px solid black;">
     <thead>
         <tr>
-            <td colspan="6" style="text-align:center; background-color: #aae4d6; padding: 15px;">
+            <td colspan="5" style="text-align:center; background-color: #aae4d6; padding: 15px;">
                 <span style="font-size: 110%;">
                     Plafonds de ressources en Île-de-France
                 </span>
